@@ -1,0 +1,6 @@
+#A,#B,#C { height: 100px;}
+#A { width: 20%; background-color: red;}
+#B { width: 50%;background-color: blue;}
+#C { width: 90%;background-color: green;}
+
+#container { display: flex; }

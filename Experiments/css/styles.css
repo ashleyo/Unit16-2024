@@ -1,0 +1,11 @@
+
+body {
+    color: lightgray;
+    background-color: darkblue;
+}
+
+/*sprinkles */
+li {
+    list-style: none;
+}
+h1, h2 { padding-left: 0.5em}
